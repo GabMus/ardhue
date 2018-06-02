@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ArdHue
+# TODO: We could include the full path here but Meson requires
+#       newer GLib to generate files for GResource
+TryExec=ardhue
+Exec=ardhue --gapplication-service
+Type=Application
+NoDisplay=true
+Name[en_US]=org.gabmus.ardhue.service.desktop

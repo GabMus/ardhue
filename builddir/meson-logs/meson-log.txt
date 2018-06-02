@@ -1,0 +1,20 @@
+Build started at 2018-06-02T18:58:21.963874
+Main binary: /usr/bin/python
+Python system: Linux
+The Meson build system
+Version: 0.46.1
+Source dir: /home/gabmus/git/ArdHue
+Build dir: /home/gabmus/git/ArdHue/builddir
+Build type: native build
+Project name: ardhue
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Configuring org.gabmus.ardhue.desktop using configuration
+Configuring org.gabmus.ardhue.service using configuration
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'glib-2.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency glib-2.0 found: YES 2.56.1
+Configuring ardhue using configuration
+Program scripts/meson_post_install.py found: YES (/usr/bin/env python3 /home/gabmus/git/ArdHue/scripts/meson_post_install.py)
+Build targets in project: 3
+Found ninja-1.8.2 at /usr/bin/ninja

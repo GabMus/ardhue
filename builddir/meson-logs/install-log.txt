@@ -1,0 +1,20 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/videofeed_flowbox_item.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/youtube_api_manager.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/threading_helper.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/pipe_video.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/pipe_channel.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/__main__.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/fx_listbox_item.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/secret.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/listbox_helper.py
+/home/gabmus/git/ArdHue/builddir/testdir/lib/python3.6/site-packages/ardhue/wallpapers_folder_listbox_row.py
+/home/gabmus/git/ArdHue/builddir/testdir/share/ardhue/org.gabmus.ardhue.gresource
+/home/gabmus/git/ArdHue/builddir/testdir/share/applications/org.gabmus.ardhue.desktop
+/home/gabmus/git/ArdHue/builddir/testdir/share/dbus-1/services/org.gabmus.ardhue.service
+/home/gabmus/git/ArdHue/builddir/testdir/share/glib-2.0/schemas/org.gabmus.ardhue.gschema.xml
+/home/gabmus/git/ArdHue/builddir/testdir/share/icons/hicolor/scalable/apps/org.gabmus.ardhue.svg
+/home/gabmus/git/ArdHue/builddir/testdir/share/icons/hicolor/symbolic/apps/org.gabmus.ardhue-symbolic.svg
+/home/gabmus/git/ArdHue/builddir/testdir/share/metainfo/org.gabmus.ardhue.appdata.xml
+/home/gabmus/git/ArdHue/builddir/testdir/bin/ardhue

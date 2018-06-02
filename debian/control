@@ -1,0 +1,25 @@
+Source: ardhue
+Section: gnome
+Priority: optional
+Maintainer: Gabriele Musco <emaildigabry@gmail.com>
+Homepage: https://github.com/GabMus/ardhue
+Standards-Version: 4.1.0
+X-Python3-Version: >= 3.4
+Build-Depends:
+ debhelper (>= 9),
+ dh-python,
+ gettext,
+ libappstream-glib-dev,
+ meson (>= 0.40.0),
+ pkg-config,
+ python3-all
+
+Package: ardhue
+Architecture: all
+Depends:
+ gir1.2-gtk-3.0 (>= 3.14.0),
+ python3-gi (>= 3.14.0)
+Recommends:
+ ${misc:Depends},
+ ${python3:Depends}
+Description: Interface to control ArdHue Arduino based digital RGB system

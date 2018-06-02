@@ -1,0 +1,2 @@
+version=3
+https://github.com/GabMus/ardhue/releases .*/(.*)\.tar\.gz
