@@ -29,7 +29,6 @@ serialInterface = serial.Serial(SERIAL_PORT, BAUD_RATE, timeout=0)
 import argparse
 from gi.repository import Gtk, Gdk, Gio, GdkPixbuf
 
-from . import threading_helper as ThreadingHelper
 from . import listbox_helper as ListboxHelper
 from . import fx_listbox_item as FXListBoxItem
 
