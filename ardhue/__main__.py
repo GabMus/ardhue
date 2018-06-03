@@ -264,9 +264,9 @@ class Application(Gtk.Application):
         cmd = fx
         if FX_LIST[fx]['colors'] >= 1:
             cmd += ' {}'.format(self.convert_color(self.color_picker_btn0.get_rgba()))
-        if FX_LIST[fx]['colors'] >=2 and color_picker_toggle1.get_active():
+        if FX_LIST[fx]['colors'] >=2 and self.color_picker_toggle1.get_active():
             cmd += ' {}'.format(self.convert_color(self.color_picker_btn1.get_rgba()))
-        if FX_LIST[fx]['colors'] >=3 and color_picker_toggle2.get_active():
+        if FX_LIST[fx]['colors'] >=3 and self.color_picker_toggle2.get_active():
             cmd += ' {}'.format(self.convert_color(self.color_picker_btn2.get_rgba()))
         serialInterface.write(cmd.encode())
 
