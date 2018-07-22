@@ -48,7 +48,8 @@ if not os.path.isdir(G_CACHE_PATH):
 FX_LIST = {
     'wave': { 'colors': 0},
     'spectrum': { 'colors': 0},
-    'digitalrgb': { 'colors': 0},
+    'flux': { 'colors': 1},
+    #'digitalrgb': { 'colors': 0},
     'static': { 'colors': 1},
     'none': { 'colors': 0},
     'supercar': { 'colors': 1},

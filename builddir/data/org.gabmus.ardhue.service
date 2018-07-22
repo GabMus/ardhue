@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=org.gabmus.ardhue
-Exec=/home/gabmus/git/ArdHue/builddir/testdir/bin/ardhue --gapplication-service
